@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 55faa95f05a02a44cb37d764696f28bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86afeaf320bb3846afe74d91712c3f9
+      internalID: -1264841437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0616cc318eb2804f97d09e00e228179
+      internalID: 829015521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6be911df33df246aa3f71b15015f12
+      internalID: 1600830815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934f7101b0839d49b21194e8b15be1c
+      internalID: 1154633842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03826b8bffef6c4690c4318590c9c90
+      internalID: 1207554713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715ca774c248cb419c8570b13f3747a
+      internalID: 123405333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5becd0b85bff194dafde41eee6ae03f
+      internalID: -374219071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df92acb5e5343b4439041283aa248a6a
+      internalID: 1406663938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370dd7057f762b4d9a150b6b6191664
+      internalID: -190176057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 97
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e7da86ba552249bfa0988692a6510
+      internalID: 250050207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b909a3594aae45a1005a5e43ed857
+      internalID: 48838649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff28df2350497418861f92df7b2902
+      internalID: -136772499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af915cc773b6b044ebd44e489d49096b
+      internalID: -854878294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06bcf4b53991704191e86660935375e
+      internalID: -668195817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a774cc7931964e833002046389074
+      internalID: -434784242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c54eecfef9a94c99defb063c538d6
+      internalID: -1089402964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616efc3c842c57344a88e5930322dfa3
+      internalID: 505584770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76fb47d4bb7b14ea210931e2dab9e9
+      internalID: -1694748265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc326b2f8c8526c48acb163eb29e82b4
+      internalID: 1189428330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4334cfa11cad7f409834db85ea8d03e
+      internalID: 336700347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520503291d50c44aa27404e47e7c581
+      internalID: 66472981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3701e73abff6d429fa5a40ec39196e
+      internalID: 1502263720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f78e7220fe81439b71db341697c61
+      internalID: 11522191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73d606c33113449b687abd3b7482f1
+      internalID: 1477196397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b11583b0872c645bbdb5b36f051169
+      internalID: -2037762865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4154d94103e1ee4f92cbea19a08f74a
+      internalID: 1418421186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301e0a73d3436144b802076aab8d2c7
+      internalID: -1205186287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a3467c92182b4988e46996f406d50
+      internalID: -364522567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2776792ed3324097e7b3d6d96e4c7
+      internalID: -1551902382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646074ca7ed68d47b3cd19409a1ccda
+      internalID: -644854347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307905090190ae4987970c0495afb90
+      internalID: 1665145258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f2e486c7486548b18c38e29998670
+      internalID: -1091166516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba39baaf42fa04ea116469a0f491b7
+      internalID: 149981314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c97b4dab219b4cbb87900a41c83a5
+      internalID: -1484284517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846fc463b444e848965a4aaa703aabd
+      internalID: -771737253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672ee219a885a648a331d124fa5b69a
+      internalID: 1164391467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471794ddf8ca8840af09e5be0606b17
+      internalID: 1795771832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6d3ee84a6718b4d96d8f706e28955a
+      internalID: 1408824635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc046dc0d8b5dbf4286738f4a25878e2
+      internalID: -1141028338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c23de15274a642b963ba1acac0907
+      internalID: -1537363311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_23: 1477196397
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_2: 1600830815
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_12: -854878294
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_24: -2037762865
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_22: 11522191
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_26: -1205186287
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_27: -364522567
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_31: -1091166516
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_28: -1551902382
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_0: -1264841437
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_4: 1207554713
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_16: 505584770
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_37: 1408824635
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_3: 1154633842
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_7: 1406663938
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_20: 66472981
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_11: -136772499
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_33: -1484284517
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_14: -434784242
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_5: 123405333
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_10: 48838649
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_17: -1694748265
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_29: -644854347
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_6: -374219071
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_8: -190176057
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_36: 1795771832
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_34: -771737253
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_32: 149981314
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_38: -1141028338
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_25: 1418421186
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_15: -1089402964
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_19: 336700347
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_35: 1164391467
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_21: 1502263720
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_13: -668195817
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_1: 829015521
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_30: 1665145258
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_9: 250050207
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_39: -1537363311
+      colorful_potions__rpg_maker_mv___icon_set__by_xxsylph_da5qf62_18: 1189428330
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
