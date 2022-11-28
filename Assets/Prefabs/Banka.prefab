@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2221111861220541398}
   - component: {fileID: 2221111861220541399}
   - component: {fileID: 2315416120530743792}
+  - component: {fileID: 4496309738519027689}
   m_Layer: 0
   m_Name: Banka
   m_TagString: Untagged
@@ -128,3 +129,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healAmount: 200
+--- !u!114 &4496309738519027689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2221111861220541392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 660d729d0bb032d44aa0e6514051f8bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
