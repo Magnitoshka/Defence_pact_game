@@ -17,7 +17,6 @@ public class Character : MonoBehaviour
         coins = GetComponent<Coins>();    
     }
 
-
     private void Start()
     {
         hpBar.SetState(currentHp, maxHp);
