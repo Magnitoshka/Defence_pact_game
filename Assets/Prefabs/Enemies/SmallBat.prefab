@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3840974786451574882}
   - component: {fileID: 3840974786451574893}
   - component: {fileID: 3840974786451574894}
+  - component: {fileID: -8541587993361515937}
   m_Layer: 0
   m_Name: SmallBat
   m_TagString: Untagged
@@ -170,3 +171,18 @@ MonoBehaviour:
   speed: 2
   hp: 1
   damage: 1
+  experience_reward: 400
+--- !u!114 &-8541587993361515937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3840974786451574883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dc83c957450dc84db22a46459175916, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dropItemPrefab: {fileID: 2692204216416650448, guid: 9aeb4b48ef20525479db47cc1547b0ea, type: 3}
+  chance: 0.3

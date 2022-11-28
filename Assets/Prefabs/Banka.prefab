@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2221111861220541397}
   - component: {fileID: 2221111861220541398}
   - component: {fileID: 2221111861220541399}
+  - component: {fileID: 2315416120530743792}
   m_Layer: 0
   m_Name: Banka
   m_TagString: Untagged
@@ -98,7 +99,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64e7a5bbd092e6c43968c9a938018913, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healAmount: 200
 --- !u!58 &2221111861220541399
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -115,3 +115,16 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.35401976
+--- !u!114 &2315416120530743792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2221111861220541392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70542612b1e021b4b8a27466e0d7b6ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healAmount: 200
