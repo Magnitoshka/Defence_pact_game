@@ -847,6 +847,7 @@ GameObject:
   - component: {fileID: 116394950}
   - component: {fileID: 116394952}
   - component: {fileID: 116394953}
+  - component: {fileID: 116394954}
   m_Layer: 0
   m_Name: PlayerChar
   m_TagString: Untagged
@@ -1015,6 +1016,18 @@ MonoBehaviour:
   maxHp: 100
   currentHp: 50
   hpBar: {fileID: 36238795}
+--- !u!114 &116394954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116394945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c345a580fcf9ed4aafc53fed87f9aec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &122446036
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10147,7 +10160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 729bf1618322f0546a1127c45761c44f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToAtack: 1.5
+  timeToAtack: 1
   leftWhipObject: {fileID: 1123270540}
   rightWhipObject: {fileID: 1459894417}
   whipAttackSize: {x: 4, y: 2}
