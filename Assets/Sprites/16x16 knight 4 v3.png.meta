@@ -801,111 +801,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 16x16 knight 4 v3_32
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 80
-        width: 21
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61488f018bc8e994a944226e77d60a95
-      internalID: -417691629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 knight 4 v3_33
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 80
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d88a47e1cee73ed4ba2e052cc46a428a
-      internalID: -1467441426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 knight 4 v3_34
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 80
-        width: 21
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f769bc208a0cdda4a956b7afd02002d2
-      internalID: 68618828
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 knight 4 v3_35
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 80
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 759a6f7a3ddc158459d27eed200f6431
-      internalID: -2102637461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 knight 4 v3_36
-      rect:
-        serializedVersion: 2
-        x: 412
-        y: 80
-        width: 21
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6ba1b9a859356e5478d241a6acac3428
-      internalID: 60697410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: 16x16 knight 4 v3_37
       rect:
         serializedVersion: 2
@@ -920,7 +815,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 123ffe89efde0f0479ca8a50297a42ce
+      spriteID: cf0cae60010249844aca450b68bc18da
       internalID: -1120671310
       vertices: []
       indices: 
@@ -941,8 +836,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4126261367d18024db0e642450f76082
+      spriteID: 81071a7b311017048aaff8cdcfe05586
       internalID: -66415730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 4 v3_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 80
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2160bf098856eb94f95f809ce4fb92ce
+      internalID: -417691629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 4 v3_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77521314b3eb0d945a5bb30de06496da
+      internalID: -1467441426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 4 v3_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 80
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6172fac7cdeafa42a05cb5ab8d1f276
+      internalID: 1871716690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 4 v3_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 80
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e90456bd761f74c9b40c50eb04169d
+      internalID: -618637221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 4 v3_36
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 80
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56e404a003ea946bb892d32a515707
+      internalID: 1586143308
       vertices: []
       indices: 
       edges: []
@@ -966,16 +966,16 @@ TextureImporter:
       16x16 knight 4 v3_10: 474070295
       16x16 knight 4 v3_27: 21234818
       16x16 knight 4 v3_2: -1631671505
-      16x16 knight 4 v3_35: -2102637461
+      16x16 knight 4 v3_35: -618637221
       16x16 knight 4 v3_15: 408710341
       16x16 knight 4 v3_22: -1819443340
       16x16 knight 4 v3_0: 1905820898
       16x16 knight 4 v3_33: -1467441426
       16x16 knight 4 v3_21: -1938310598
       16x16 knight 4 v3_28: 2006316247
-      16x16 knight 4 v3_34: 68618828
+      16x16 knight 4 v3_34: 1871716690
       16x16 knight 4 v3_7: -421725536
-      16x16 knight 4 v3_36: 60697410
+      16x16 knight 4 v3_36: 1586143308
       16x16 knight 4 v3_3: 466832489
       16x16 knight 4 v3_29: 561660006
       16x16 knight 4 v3_12: 1599659607
