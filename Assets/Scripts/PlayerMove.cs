@@ -15,8 +15,10 @@ public class PlayerMove : MonoBehaviour
     public float lastHorizontalVector;
     [HideInInspector]
     public float lastVerticalVector;
+    //public bool lastSide;
 
     [SerializeField] float speed = 3f;
+    //bool rightSide;
 
     Animate animate;
 
@@ -33,14 +35,17 @@ public class PlayerMove : MonoBehaviour
     {
         movementVector.x = Input.GetAxisRaw("Horizontal");
         movementVector.y = Input.GetAxisRaw("Vertical");
+        //rightSide = Input.GetAxisRaw("RightSide");
 
         if (movementVector.x != 0)
         {
             lastHorizontalVector = movementVector.x;
+            //lastSide = rightSide;
         }
         if (movementVector.y != 0)
         {
             lastVerticalVector = movementVector.y;
+            //lastSide = rightSide;
         }
 
         animate.horizontal = movementVector.x;
