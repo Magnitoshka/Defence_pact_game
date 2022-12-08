@@ -90,6 +90,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GRASS+_5
       objectReference: {fileID: 0}
+    - target: {fileID: 9117218606617409878, guid: 127bdbedf4fa21b409658bdd3052622d, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117218606617409878, guid: 127bdbedf4fa21b409658bdd3052622d, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117218606617409878, guid: 127bdbedf4fa21b409658bdd3052622d, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 127bdbedf4fa21b409658bdd3052622d, type: 3}
 --- !u!4 &6607027088130827966 stripped
@@ -107,6 +119,18 @@ PrefabInstance:
     - target: {fileID: 611779157574765966, guid: 0bb7a266986cc1940a3618eb5853e081, type: 3}
       propertyPath: m_Name
       value: GRASS+_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151425309220783227, guid: 0bb7a266986cc1940a3618eb5853e081, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151425309220783227, guid: 0bb7a266986cc1940a3618eb5853e081, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151425309220783227, guid: 0bb7a266986cc1940a3618eb5853e081, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6715632697159143700, guid: 0bb7a266986cc1940a3618eb5853e081, type: 3}
       propertyPath: m_RootOrder
@@ -210,6 +234,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5958906420684327082, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
       propertyPath: m_Name
       value: GRASS+_4
@@ -271,6 +307,18 @@ PrefabInstance:
     - target: {fileID: 1608289480981238611, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5286785605301884070, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5958906420684327082, guid: b6db0a893d62c744a978ec012c80f08c, type: 3}
       propertyPath: m_Name

@@ -612,49 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: First Asset pack_23
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 131
-        width: 39
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef6b6802390578c468b29b4b43c6849f
-      internalID: -102161857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: First Asset pack_24
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 345
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a395f0d2242b7548a94058f55cef161
-      internalID: 346157654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: First Asset pack_25
       rect:
         serializedVersion: 2
         x: 19
@@ -675,49 +633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: First Asset pack_26
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 336
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe4b1c77e00c03946b1b3e1bf2cbe49a
-      internalID: 506959452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: First Asset pack_27
-      rect:
-        serializedVersion: 2
-        x: 299
-        y: 118
-        width: 39
-        height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c78e51cc6a7fdf343a5e9db385b4372e
-      internalID: 1570709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: First Asset pack_28
       rect:
         serializedVersion: 2
         x: 323
@@ -725,7 +641,7 @@ TextureImporter:
         width: 23
         height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -733,6 +649,48 @@ TextureImporter:
       bones: []
       spriteID: 21b445e38fd751e45806eb0b0cabb5fa
       internalID: 1744281827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First Asset pack_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22b75a77ceab8438c98d2f75fe8b65
+      internalID: -715763949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First Asset pack_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 118
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f9c79924be4741bcd689c469c826c
+      internalID: 506959452
       vertices: []
       indices: 
       edges: []
@@ -755,17 +713,15 @@ TextureImporter:
       First Asset pack_11: -982084802
       First Asset pack_18: 881232145
       First Asset pack_21: 1904220875
-      First Asset pack_28: 1744281827
       First Asset pack_10: 1152522610
       First Asset pack_2: -1174035595
       First Asset pack_14: 986435070
       First Asset pack_16: 2025192411
-      First Asset pack_24: 346157654
-      First Asset pack_25: 1715718900
+      First Asset pack_24: 1715718900
+      First Asset pack_25: -715763949
       First Asset pack_5: 1797725694
-      First Asset pack_23: -102161857
-      First Asset pack_17: -40976022
       First Asset pack_26: 506959452
+      First Asset pack_17: -40976022
       First Asset pack_12: -942037979
       First Asset pack_20: -436680759
       First Asset pack_15: 1161628585
@@ -773,7 +729,7 @@ TextureImporter:
       First Asset pack_7: 1854201437
       First Asset pack_0: 1297338205
       First Asset pack_1: -172582734
-      First Asset pack_27: 1570709
+      First Asset pack_27: 1744281827
       First Asset pack_19: -1630350500
       First Asset pack_8: 1251691704
       First Asset pack_22: 1509873129
