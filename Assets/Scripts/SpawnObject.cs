@@ -12,6 +12,7 @@ public class SpawnObject : MonoBehaviour
         if (Random.value<probability)
         {
             GameObject go = Instantiate(toSpawm, transform.position, Quaternion.identity);  
+
         }
     }
 }

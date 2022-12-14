@@ -5,7 +5,7 @@ using UnityEngine;
 public class Animate : MonoBehaviour
 {
     Animator animator;
-
+    public float isFast;
     public float horizontal;
     //public bool rightSide;
 
@@ -18,6 +18,7 @@ public class Animate : MonoBehaviour
     private void Update()
     {
         animator.SetFloat("Horizontal", horizontal);
+      
         //animator.SetBool("RightSide", rightSide);
     }
 }

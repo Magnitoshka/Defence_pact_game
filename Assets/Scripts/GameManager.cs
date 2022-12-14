@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+
  public static GameManager instance;
 
     private void Awake()
@@ -12,5 +13,18 @@ public class GameManager : MonoBehaviour
     
     }
 
+
     public Transform playerTransform; 
+}
+
+public class ExampleClass : MonoBehaviour
+{
+    void Update()
+    {
+        if (Input.GetKey("escape"))  // если нажата клавиша Esc (Escape)
+        {
+            Application.Quit();    // закрыть приложение
+            Debug.Log("ESCAPE");
+        }
+    }
 }
