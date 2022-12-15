@@ -1068,7 +1068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHp: 100
-  currentHp: 50
+  currentHp: 100
   hpBar: {fileID: 36238795}
   level: {fileID: 0}
   coins: {fileID: 0}
