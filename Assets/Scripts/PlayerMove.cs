@@ -19,7 +19,7 @@ public class PlayerMove : MonoBehaviour
 
     [SerializeField] float speed = 3f;
     //bool rightSide;
-    public bool isAFK=false;
+ 
     
     Animate animate;
 
@@ -54,9 +54,6 @@ public class PlayerMove : MonoBehaviour
         movementVector *= speed;
 
         rgbd2d.velocity = movementVector;
-        if(speed<=0){
-            isAFK = true;
-            Debug.Log("AFK");
-        }
+       
     }
 }
