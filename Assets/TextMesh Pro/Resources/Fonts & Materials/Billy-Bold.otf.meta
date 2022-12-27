@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ddf3e9a689db9c94fb9780f8dc6895ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Billy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3ee2ac72deb39e4f96384a92011a5da, type: 3}
+  - {fileID: 12800000, guid: 4369d964cc0e69c4eb94e9144f0b579a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
